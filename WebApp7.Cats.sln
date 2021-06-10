@@ -5,11 +5,11 @@ VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApp7.Cats", "WebApp7.Cats\WebApp7.Cats.csproj", "{437242ED-13DB-493D-BAC2-ACAE8B5D3332}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApp7.Cats.DALL", "WebApp7.Cats.DALL\WebApp7.Cats.DALL.csproj", "{BC400524-94EC-4DE3-A4C9-E32440AACF06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApp7.Cats.DAL", "WebApp7.Cats.DALL\WebApp7.Cats.DAL.csproj", "{BC400524-94EC-4DE3-A4C9-E32440AACF06}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp7.Cats.BL", "WebApp7.Cats.BL\WebApp7.Cats.BL.csproj", "{31FFC1EA-7B06-47D8-9B41-9DAFFE9B883A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApp7.Cats.BL", "WebApp7.Cats.BL\WebApp7.Cats.BL.csproj", "{31FFC1EA-7B06-47D8-9B41-9DAFFE9B883A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp7.Cats.Tests", "WebApp7.Cats.Tests\WebApp7.Cats.Tests.csproj", "{B5D60ED4-BC03-47C2-A421-D7394E126343}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApp7.Cats.Tests", "WebApp7.Cats.Tests\WebApp7.Cats.Tests.csproj", "{B5D60ED4-BC03-47C2-A421-D7394E126343}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

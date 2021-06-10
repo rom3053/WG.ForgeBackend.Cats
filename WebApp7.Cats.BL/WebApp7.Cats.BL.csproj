@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\WebApp7.Cats.DALL\WebApp7.Cats.DALL.csproj" />
+    <ProjectReference Include="..\WebApp7.Cats.DALL\WebApp7.Cats.DAL.csproj" />
   </ItemGroup>
 
 </Project>

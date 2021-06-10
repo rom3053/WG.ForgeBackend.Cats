@@ -22,7 +22,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\WebApp7.Cats.BL\WebApp7.Cats.BL.csproj" />
-    <ProjectReference Include="..\WebApp7.Cats.DALL\WebApp7.Cats.DALL.csproj" />
+    <ProjectReference Include="..\WebApp7.Cats.DALL\WebApp7.Cats.DAL.csproj" />
   </ItemGroup>
 
 
